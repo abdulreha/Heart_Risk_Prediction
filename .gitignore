@@ -1,0 +1,45 @@
+# Virtual Environment
+.venv/
+venv/
+env/
+ENV/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Python egg info
+*.egg-info/
+dist/
+build/
+
+# IDE and Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+.env.local
+
+# Streamlit
+.streamlit/
+
+# Testing and Coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# OS specific
+.DS_Store
+*.log
+
+# Large data files (optional)
+*.pkl
+*.pickle
