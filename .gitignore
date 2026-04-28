@@ -40,6 +40,4 @@ htmlcov/
 .DS_Store
 *.log
 
-# Large data files (optional)
-*.pkl
-*.pickle
+
