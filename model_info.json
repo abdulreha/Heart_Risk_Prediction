@@ -1,0 +1,21 @@
+{
+  "features": [
+    "age",
+    "sex",
+    "cp",
+    "trestbps",
+    "chol",
+    "fbs",
+    "restecg",
+    "thalach",
+    "exang",
+    "oldpeak",
+    "slope",
+    "ca",
+    "thal"
+  ],
+  "model_type": "VotingEnsemble (RF + GB + LR)",
+  "accuracy": 81.67,
+  "roc_auc": 0.8842,
+  "dataset_size": 599
+}
